@@ -1,3 +1,7 @@
+# Created by Naseem Uddin
+# This parse.py file is a simple web crawler and site parser in Python. I just needed it to create a table of data that I could then upload into Snowflake for data embedding and retrieval. For more information refer to this link: https://snowflake-mistral-rag.devpost.com/
+
+
 import csv
 from bs4 import BeautifulSoup
 import requests
