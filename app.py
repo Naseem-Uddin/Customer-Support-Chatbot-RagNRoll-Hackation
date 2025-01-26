@@ -1,3 +1,6 @@
+# Created by Jibril Wague
+# This file is the front end and handles everything on the users front. Deployed using Streamlit as per the requirement of the Hackathon. For more information about the hackation please refer to this link: https://snowflake-mistral-rag.devpost.com/
+
 from dotenv import load_dotenv
 import os
 import streamlit as st
