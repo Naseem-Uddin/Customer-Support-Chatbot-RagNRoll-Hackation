@@ -1,3 +1,7 @@
+# Created by Naseem Uddin
+# This is the main file that serves as the back end of the project.
+# We create a connection to snowflake using the snowflake libraries and run Snowflakes SIMILARITY_SCORE, VECTOR_SIMILARITY_SEARCH, and EMBEDDING_COLUMN for the RAG pipeline. Utilize mistral llm as per Hackathon requirement for the data generation. For more information refer to this link: https://snowflake-mistral-rag.devpost.com/
+
 import os
 from dotenv import load_dotenv
 from snowflake.connector import connect
