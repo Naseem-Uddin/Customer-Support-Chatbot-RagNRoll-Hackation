@@ -1,0 +1,7 @@
+streamlit 
+snowflake-connector-python 
+faiss-cpu 
+torch 
+transformers 
+sentence-transformers 
+python-dotenv
